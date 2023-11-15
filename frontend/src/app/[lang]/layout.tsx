@@ -88,6 +88,7 @@ export default async function RootLayout({
         </main>
 
         <Banner data={notificationBanner} />
+        
 
         <Footer
           logoUrl={footerLogoUrl}
