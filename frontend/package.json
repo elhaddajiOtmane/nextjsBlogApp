@@ -13,7 +13,7 @@
     "@headlessui/react": "^1.7.15",
     "@heroicons/react": "^2.0.18",
     "@types/negotiator": "^0.6.1",
-    "@types/node": "18.14.6",
+    "@types/node": "18.19.3",
     "@types/qs": "^6.9.7",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
